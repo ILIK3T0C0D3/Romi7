@@ -32,7 +32,7 @@ public class ToggleLightsBasedOnGyro extends CommandBase {
       setLightsRed();
     }
     
-    System.out.println("Gyro angle: " + gyroAngle);
+    // System.out.println("Gyro angle: " + gyroAngle);
   }
 
   private void setLightsGreen() {
